@@ -10,56 +10,56 @@ export const homeData = {
   // To use your own photo, just place it in /public/assets and write the link as I did: eg: /assets/my_image.jpg
   // Of course it's best to convert your image file type to webp for better performance on the web!
   // The links are optional
-  myImage: "/assets/my_image.webp",
+  myImage: "/assets/my_image.jpeg",
   contactInfo: [
     {
       Icon: IoMdMail,
-      Label: "kareem.e.hamouda@gmail.com",
+      Label: "azizkoumi7@gmail.com",
       Link: "/contact", // This refers to the Contact page in the website, you can change it to whatever you like
     },
     {
       Icon: FaLocationDot,
-      Label: "Cairo, Egypt",
-      Link: "https://www.google.com/maps/place/Cairo,+Cairo+Governorate/@30.0594885,31.2584644,13z", // This is just a simple location of my city
+      Label: "Paris, France",
+      Link: "https://maps.app.goo.gl/oFpFpTHuLT2wmnhW8", // This is just a simple location of my city
     },
     {
       Icon: FaPhoneAlt,
-      Label: "+20 115 111 9085",
-      Link: "tel:+201151119085",
+      Label: "+33 6 16 46 84 87 ",
+      Link: "tel:+33616468487",
     },
   ],
   education: [
     {
       Icon: FaUniversity,
-      Label: "Ain Shams University",
-      Link: "https://www.asu.edu.eg/",
+      Label: "INSTA Paris",
+      Link: "https://www.insta.fr/",
     },
     {
       Icon: FaGraduationCap,
-      Label: "Bachelor's Degree in Computer Science",
-      Link: "https://cis.asu.edu.eg/",
+      Label: "Concepteur développeur d’applications",
+      Link: "https://www.insta.fr/diplome-concepteur-developpeur-applications/",
     },
   ],
   social: [
     {
       Icon: FaGithub,
       Label: "GitHub",
-      Link: "https://github.com/KareemEhab",
+      Link: "https://github.com/lkwmy",
     },
     {
       Icon: FaLinkedin,
       Label: "LinkedIn",
-      Link: "https://www.linkedin.com/in/kareem-hamouda/",
+      Link: "https://www.linkedin.com/in/aziz-koumi/",
     },
     {
       Icon: FaFacebook,
       Label: "Facebook",
-      Link: "https://www.facebook.com/kareem.ehab.37",
+      Link: "https://www.facebook.com/koumi.aziz",
     },
     {
       Icon: FaInstagram,
       Label: "Instagram",
-      Link: "https://www.instagram.com/kareem.ehabz/",
+      Link: "https://www.instagram.com/lkwmy__/",
     },
   ],
 };
